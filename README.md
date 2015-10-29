@@ -5,6 +5,8 @@ Tuney
 
 An artificially intelligent music search algorithm that searches for music tones based on the frequencies listed in its database. It evolves with every search to identify the kind of music you like and play it when you ask for it. It also classifies every frequency into the genre of the music.
 
+The algorithm uses depth first search. It does not search for an exact music piece but searches for a music piece in a range for frequencies, making it search more possible solutions, hence making it smarter. Also, what it does is that it learns what kind of music you liked listening to, so that the next time you search for it, it does not search through the whole database, but directly returns the music you liked.
+
 Getting started
 =======
 The Tuney library is quick and easy to setup. Assuming you have the following downloaded, installed and running.
