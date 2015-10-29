@@ -30,7 +30,9 @@ You can also call to listen to your favourite songs.
 
 > tuney.core=> (fav-play)
 
-There are way more possibilities that are possible with this library. You can explore the source code to know more.
+There are way more possibilities that are possible with this library.
+
+You can explore the source code to know more.
 
 Assignment information
 =======
