@@ -8,8 +8,10 @@ An artificially intelligent music search algorithm that searches for music tones
 Getting Started
 =======
 The Tuney library is quick and easy to setup. Assuming you have the following downloaded, installed and running.
+
 * Clojure
 * Leiningen
+
 After this, download the Tuney.zip file, and run it with REPL.
 
 The first function you will see will be Search function. When you carry out a search function, you define the music genre in the parameters.
