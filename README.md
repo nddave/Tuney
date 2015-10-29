@@ -15,6 +15,7 @@ After this, download the Tuney.zip file, and run it with repl.
 The first function you will see will be Search function. When you carry out a search function, you define the music genre in the parameters. Then it will play a music and ask you if you liked it.
 
 > tuney.core=> (search "rock")
+
 > Did you like this tune? [y/n] : 
 
 If you reply with Yes, the program saves your music into the "favourites" databsed. Else it plays a new music for you.
