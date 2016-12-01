@@ -38,12 +38,8 @@ There are way more possibilities that are possible with this library.
 
 You can explore the source code to know more.
 
-Assignment information
-=======
-This program is written as a part of the Artificial Intelligence Assignment.
+# License information
 
-- Program Name : Tuney
-- Program Description : An artificially intelligent music search algorithm that searches for music tones based on the frequencies listed in its database.
-- Subject : Artificial Intelligence
-- Assignment : Write an artificially intelligent search algorithm.
-- Language : Clojure
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
+
+Program is created by [Nirman Dave](http://www.nirmandave.com) as a form of assignment for *Artificial Intelligence CS263* course at *Hampshire College, Amherst MA* under *Professor Lee Spector*.
