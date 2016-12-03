@@ -17,21 +17,21 @@ The Tuney library is quick and easy to setup. Assuming you have the following do
 After this, download the Tuney.zip file, and run it with REPL.
 
 The first function you will see will be Search function. When you carry out a search function, you define the music genre in the parameters.
-```
+```clojure
 tuney.core=> (search "rock")
 ```
 Then it will play a music and ask you if you liked it. If you reply with Yes, the program saves your music into the "favourites" databsed. Else it plays a new music for you.
-``` 
+```clojure
 Did you like it? [y/n] : 
 ```
 You can also search through frequency.
-```
+```clojure
 tuney.core=> (search 220 532)
 ```
 Where "220" is the minimum frequency and "532" is the maximum frequency.
 
 You can also call to listen to your favourite songs.
-```
+```clojure
 tuney.core=> (fav-play)
 ```
 There are way more possibilities that are possible with this library.
